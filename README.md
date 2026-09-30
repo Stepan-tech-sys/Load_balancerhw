@@ -40,5 +40,5 @@
 ![2](https://raw.githubusercontent.com/Stepan-tech-sys/screenshots/e5681c45d95dc4a1a44d0602917e27d656742ec2/Screenshot%20from%202026-09-30%2021-27-13.png)
 ![3](https://raw.githubusercontent.com/Stepan-tech-sys/screenshots/e5681c45d95dc4a1a44d0602917e27d656742ec2/Screenshot%20from%202026-09-30%2021-28-57.png)
 
-`"Terraform platbook" в файлах репозитория`
+`"Terraform playbook" в файлах репозитория 7-03 `
 
